@@ -1,0 +1,5 @@
+{
+  "name": "Buscador de Subvenciones BDNS",
+  "description": "Una aplicación para explorar la Base de Datos Nacional de Subvenciones (BDNS) de España utilizando IA para encontrar las ayudas que mejor se adapten a tus necesidades.",
+  "requestFramePermissions": []
+}
